@@ -70,9 +70,9 @@ The encrypted executable will be saved as in the same directory as the SecureByt
 The result of the Malware we took as an example for testing our software.
 
 This image shows that how much engines detected that malware when sent without any encryption or obfuscation.
-![Before](https://github.com/0xManan/Secure-Byte/blob/main/Before%20Execution.png)
+![Before](https://github.com/0xManan/Secure-Byte/blob/main/Results/Before%20Execution.png)
 
 This image shows that after using SecureByte to encrypt the malware and obfuscate it and after that process how many engines detected that as a malware.
-![After](https://github.com/0xManan/Secure-Byte/blob/main/After%20Execution.png)
+![After](https://github.com/0xManan/Secure-Byte/blob/main/Results/After%20Execution.png)
 
 
